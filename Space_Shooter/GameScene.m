@@ -16,6 +16,7 @@ typedef enum {
     kEndReasonLose
 } EndReason;
 
+
 @implementation GameScene
 {
     SKSpriteNode *_ship;
